@@ -1,6 +1,6 @@
 This is the project where a user can manage their expenses by adding their incomes & expenses so that it will be easy to track the expenses
 
-PROJECT INVOLVES THE FOLLOWING CONCEPTS:-
+PROJECT INVOLVES THE FOLLOWING CONCEPTS:
 -React basics and working with the components
 -learned abouut handling the events
 -React hooks and state management
